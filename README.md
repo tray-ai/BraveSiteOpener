@@ -1,7 +1,6 @@
 # BraveSiteOpener
 
 **Description:**
-
 BraveSiteOpener is a Python script designed to automate the process of opening multiple URLs using the Brave browser. By specifying the path to the Brave browser, the script registers it and sequentially opens each URL from a provided list with a slight delay between each.
 
 **Features:**
